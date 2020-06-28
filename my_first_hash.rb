@@ -3,9 +3,9 @@ def my_hash
 end
 
 
-def shipping_manifest
-old_timey = {
-  "whale bone corset" => 5,
+def shipping_manifest(the_manifest)
+the_manifest = {
+  "whale bone corsets" => 5,
   "porcelain vases" => 2,
   "oil paintings" => 3
  }
