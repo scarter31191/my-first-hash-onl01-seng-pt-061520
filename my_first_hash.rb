@@ -1,5 +1,8 @@
-def my_hash(your_hash)
-  your_hash = {basketball => knicks}
+def my_hash
+  
+  
+  
+  
 end
 
 
