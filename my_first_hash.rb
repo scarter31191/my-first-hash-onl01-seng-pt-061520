@@ -1,5 +1,4 @@
-def my_hash(sports)
-   teams = { "Basketball" => "Knicks", "NETS", "Football" => "Giants" "JETS" }
+def my_hash
   
   
   
